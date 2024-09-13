@@ -27,4 +27,7 @@ fp-info-cache
 *.xml
 *.csv
 
+# Ignore 3D Models
+./3D Models
+
 # End of https://mrkandreev.name/snippets/gitignore-generator/#KiCad
