@@ -386,6 +386,14 @@
     [
       "f6cfbc7d-296b-4fcc-b130-a6ec96f5f92b",
       "Raíz"
+    ],
+    [
+      "82ac129a-1da8-4d84-a9c5-ddb4c465d559",
+      "Primary Side Half-Bridge 1"
+    ],
+    [
+      "9b9e3957-6b25-4317-97fa-a2154c0e2bf6",
+      "Primary Side Half-Bridge 2"
     ]
   ],
   "text_variables": {}
