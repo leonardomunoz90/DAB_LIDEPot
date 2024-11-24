@@ -394,6 +394,14 @@
     [
       "9b9e3957-6b25-4317-97fa-a2154c0e2bf6",
       "Primary Side Half-Bridge 2"
+    ],
+    [
+      "ece6843c-b458-48a5-bc41-8077fda452eb",
+      "Secondary Side Half-Bridge 1"
+    ],
+    [
+      "f23c5257-4e38-4fd8-b786-b196f0a6c8f6",
+      "Secondary Side Half-Bridge 2"
     ]
   ],
   "text_variables": {}

@@ -36,6 +36,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
 			)
 		)
 		(instances
@@ -67,19 +68,98 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Primary Side Half-Bridge 1.kicad_sch"
+		(property "Sheetfile" "Primary Side Half-Bridge 2.kicad_sch"
 			(at 119.38 74.2446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
 			)
 		)
 		(instances
 			(project "DAB_Pablo"
 				(path "/f6cfbc7d-296b-4fcc-b130-a6ec96f5f92b"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 212.09 25.4)
+		(size 81.28 48.26)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ece6843c-b458-48a5-bc41-8077fda452eb")
+		(property "Sheetname" "Secondary Side Half-Bridge 1"
+			(at 212.09 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Secondary Side Half-Bridge 1.kicad_sch"
+			(at 212.09 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "DAB_Pablo"
+				(path "/f6cfbc7d-296b-4fcc-b130-a6ec96f5f92b"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 308.61 25.4)
+		(size 81.28 48.26)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f23c5257-4e38-4fd8-b786-b196f0a6c8f6")
+		(property "Sheetname" "Secondary Side Half-Bridge 2"
+			(at 308.61 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Secondary Side Half-Bridge 2.kicad_sch"
+			(at 308.61 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "DAB_Pablo"
+				(path "/f6cfbc7d-296b-4fcc-b130-a6ec96f5f92b"
+					(page "5")
 				)
 			)
 		)
